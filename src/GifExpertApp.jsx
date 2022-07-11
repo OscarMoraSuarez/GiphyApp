@@ -1,5 +1,6 @@
 import { useState } from "react";
-import { AddCategory,GiftGrid } from "./components";
+import { AddCategory,GiftGrid} from "./components";
+
 
 
 
@@ -33,6 +34,8 @@ export const GifExpertApp = () => {
             )
           )
         }
+        
+
         
     </>
   )

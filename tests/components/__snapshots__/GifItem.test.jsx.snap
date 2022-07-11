@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en <GifItem/> debe hacer juego con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="raJSo"
+      src="https://cualquiercosa/"
+    />
+    <p>
+      raJSo
+    </p>
+  </div>
+</div>
+`;
